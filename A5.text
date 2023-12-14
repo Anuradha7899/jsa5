@@ -1,0 +1,31 @@
+Q(2)..What are the uses of JavaScript Operators?
+Ans ..Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+
+ Q(3)Explain the Assignment Operator?.
+ Ans(3)..JavaScript assignment operator is equal (=) which assigns the value of the right-hand operand to its left-hand operand.
+  That is if a = b assigns the value of b to a.
+
+  Q(4)..Explain the all Arithmetic Operators.
+  Ans(4)All arithmetic Operators
+   +	Addition
+-	Subtraction
+*	Multiplication
+**	Exponentiation (ES2016)
+/	Division
+%	Modulus (Remainder)
+++	Increment
+--	Decrement
+Q(5)What are the Binary Operators in js.
+Ans(6)These operators require two operands for operation.
+ If one or more than two operands are provided, such operators result in a syntax error
+
+
+Q(7)..Explain the Pre-Increment and Post Increment in js.
+Ans(7) The pre-increment form returns the new value of the variable,
+ while the post-increment form returns the previous value of the variable.
+  > let a = 1;
+   ++a = 2;
+    let a = 2 ;
+     a++ = 2 ;
+      a = 3. There are corresponding pre-decrement and post-decrement operators 
